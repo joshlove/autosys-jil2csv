@@ -1,9 +1,0 @@
-start: job a
-a: alpha
-b: beta
-c: charlie
-
-start: job b
-e:echo
-f: foxtrot
-
